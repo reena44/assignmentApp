@@ -37,7 +37,6 @@ import com.example.assignmenttestapp.viewModel.AssignmentViewModel
 
  *<p>MainActivity class is used to perform the main compose functionality</p>
  *@author Reena<bainsreena44@gmail.com>
- *@organization zapbuild
  *@since 6/09/23
  **/
 
